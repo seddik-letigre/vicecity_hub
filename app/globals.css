@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@source "../outputs";
+
+* { box-sizing: border-box; }
+html { background: #000; scroll-behavior: smooth; }
+body { margin: 0; background: #000; }
